@@ -11,4 +11,3 @@ public class Point {
         System.out.println("result (0, 0) to (2, 0) " + result);
     }
 }
-//
