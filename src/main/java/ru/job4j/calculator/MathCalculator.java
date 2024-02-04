@@ -25,4 +25,4 @@ public class MathCalculator {
         System.out.println("Результат расчета равен: " + sumMethod(10, 20));
     }
 }
-//fix
+//fix_1
