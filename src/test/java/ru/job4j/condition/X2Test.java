@@ -26,6 +26,7 @@ class X2Test {
         int result = X2.calc(a, b, c, x);
         assertThat(result).isEqualTo(expected);
     }
+
     @Test
     void whenA0B1C1X1Then2() {
         int a = 0;
