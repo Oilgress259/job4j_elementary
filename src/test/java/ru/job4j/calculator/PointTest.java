@@ -14,6 +14,7 @@ class PointTest {
         double output = Point.distance(x1, y1, x2, y2);
         assertThat(output).isEqualTo(expected, withPrecision(0.1));
     }
+
     @Test
     void when33to44then1Dot4() {
         double expected = 1.4;
